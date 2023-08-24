@@ -32,9 +32,5 @@ Required: Unity 2017.2, or later version
 
 Required: Any computer (Win or Mac)
 
-**Owner and Responsible Devs**
-
-Owners: Ciro Continisio (ciro@unity3d.com)
-
 **Major Change Log**
 - 02 Dec: Created repository
